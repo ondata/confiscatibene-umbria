@@ -23,3 +23,10 @@
 #about a {
   color: #EB593C
 }
+
+
+.lead {
+      font-size: 20px !important;
+    line-height: 1.58 !important;
+    font-family: Georgia;
+}
