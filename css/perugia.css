@@ -1,0 +1,25 @@
+.intro-message {
+  background: rgba(255, 255, 255, 0.55);
+}
+
+.intro-message {
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+
+.intro-message h1, h2, h3, h4 {
+  color: #EB593C;
+}
+
+.navbar-default {
+    background-color: #EB593C;
+    border-color: #e7e7e7;
+}
+
+.navbar-default a {
+  color:white !important;
+}
+
+#about a {
+  color: #EB593C
+}
